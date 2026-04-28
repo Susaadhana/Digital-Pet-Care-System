@@ -23,4 +23,4 @@ The Digital Pet Care System is a C++ application designed to manage pet informat
 ## ▶️ How to Run
 ```bash
 g++ main.cpp pet.cpp file.cpp -o PetCareApp
-./PetCareApp
+PetCareApp.exe
